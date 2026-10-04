@@ -1,8 +1,3 @@
-<!--
-使用方法：在 GitHub 新建一个和你用户名同名的公开仓库（例如用户名是 jianbochen，就建 jianbochen/jianbochen），
-把下面的内容放进该仓库的 README.md，它就会显示在你的 GitHub 主页上。
--->
-
 # Hi, I'm Jianbo
 
 Senior iOS & Rust engineer. 15 years building mobile apps and SDKs at scale — ex-Tencent (Mobile QQ, ~500M MAU; Esports Live Streaming SDK, ~100M MAU).
